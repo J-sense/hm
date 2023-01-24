@@ -1,0 +1,78 @@
+*{
+    font-family: 'EB Garamond', serif;
+
+}
+
+.nav-btn{
+    background-color: #B68C5A !important;
+}
+.btns{
+    background-color: #B68C5A !important;
+
+}
+.banner{
+    background-image: url(./images/banner.png);
+     width: 1350px;
+    height: 550px; 
+    background-repeat: no-repeat;
+    background-position: center;
+
+} 
+.banner-content{
+    padding-top: 105px;
+}
+.card img{
+    height: 70px;
+    width: 70px;
+    
+}
+.card{
+    border:0;
+}
+.mid-card{
+    border-right: 1px solid rgb(199, 198, 198);
+    border-left: 1px solid rgb(199, 198, 198);
+    background: linear-gradient(180deg, #F3F3F3 0%, rgba(243, 243, 243, 0) 100%);
+}
+.midle-card{
+    border-right: 1px solid rgb(199, 198, 198);
+    border-left: 1px solid rgb(199, 198, 198);
+    border-top: 1px solid rgb(199, 198, 198);
+}
+.first-card{
+    border-top: 1px solid rgb(199, 198, 198);
+
+}
+.filled{
+    background-color: #B68C5A;
+    border-radius:100%;
+    padding: 5px;
+}
+.carousel-item img{
+    height: 500px!important;
+}
+.carousel-caption img{
+    height: 80px !important;
+    width: 80px !important;
+}
+.accordion-item{
+    border: 0;
+   
+}
+
+.b-card{
+  border-right: 1px solid rgb(199, 198, 198); 
+  border-bottom: 1px solid rgb(199, 198, 198); 
+  
+}
+.b-card-1{
+  border-top: 1px solid rgb(199, 198, 198)!important; 
+  border-left: 1px solid rgb(199, 198, 198)!important;
+}
+.last img{
+    width: 25px;
+    height: 31px;
+}
+.last{
+    background: #F3F3F3;
+}
